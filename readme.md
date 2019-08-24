@@ -1,4 +1,4 @@
-# GraphQL-Express backend
+# GraphQL-Express backend (User-Company Types)
 
 ## A graphQl backend running with express having an external api as the data-source.in development mode using json-server to quickly setup an external data-source server.
 
