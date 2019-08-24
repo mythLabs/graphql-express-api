@@ -1,13 +1,50 @@
 {
-    "users": [
-        {"id": "45", "firstName": "yoy", "age":40,"companyId":"1"},
-        {"id": "12", "firstName": "mac", "age":23,"companyId":"2"},
-        {"id": "12", "firstName": "bill", "age":23,"companyId":"1"}
-    ],
-    "companies": [
-        {"id":"1","name":"Flipkart","description":"e-commerce"},
-        {"id":"2","name":"Paytm","description":"e-commerce"},
-        {"id":"3","name":"Ola","description":"cab-aggregator"}
-    ]
-
+  "users": [
+    {
+      "id": "45",
+      "firstName": "yoy",
+      "age": 40,
+      "companyId": "1"
+    },
+    {
+      "id": "12",
+      "firstName": "mac",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "12",
+      "firstName": "bill",
+      "age": 23,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Steve",
+      "age": 12,
+      "id": "8DVwOQC"
+    },
+    {
+      "firstName": "Steve",
+      "age": 12,
+      "companyId": "3",
+      "id": "Rv923qQ"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Flipkart",
+      "description": "e-commerce"
+    },
+    {
+      "id": "2",
+      "name": "Paytm",
+      "description": "e-commerce"
+    },
+    {
+      "id": "3",
+      "name": "Ola",
+      "description": "cab-aggregator"
+    }
+  ]
 }
